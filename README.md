@@ -135,6 +135,3 @@ CivicEye supports the following UN Sustainable Development Goals:
 ## Conclusion
 
 CivicEye demonstrates how AI and NLP can be applied to improve civic governance. By automating complaint classification and prioritization, the system enhances response efficiency and supports smarter urban management.
-
-
-# CivicEye-Intelligent-Citizen-Complaint-Classification-and-Priority-System
